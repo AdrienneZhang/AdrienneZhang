@@ -1,8 +1,9 @@
-## 🤷‍♀️ **Who** is Adrienne⁉️
+## 🤷‍♀️ **Who** is Adrienne?
 
 Hi, I'm Adrienne! I'm a data science graduate from Purdue University's class of 2024 looking for opportunities to expand my skills in Data Scientist/Data Analyst roles.
 
-### 🤓 What **skills** specifically⁉️
+
+### 🤓 What **skills** specifically?
 * Storytelling with data
 * Querying data in SQL
 * Collecting, cleaning, and preprocessing structured and unstructured data
@@ -11,20 +12,24 @@ Hi, I'm Adrienne! I'm a data science graduate from Purdue University's class of 
 * Process automation and scripting using Python
 * Visualizing data with Tableau dashboards
 
-### 🌱 What am I currently **learning**⁉️
+
+### 🌱 What am I currently **learning**?
 * Keyboard shortcuts and advanced functions in Excel
 * Prompt engineering and finetuning LLMs
 * Data governence and modeling
 
-### 🧰 What **tools** do I use⁉️
+
+### 🧰 What **tools** do I use?
 * Languages: Python, SQL, R, Java, SAS, HTML and CSS, Neo4j
   * Python Libraries: pandas, NumPy, scikit-learn, SciPy, matplotlib, ggplot, BeautifulSoup, NLTK, PyTorch, transformers
 * Technologies: Snowflake, Access, Tableau, Jupyter Notebook, Git, DataRobot, Apache Spark, Hadoop, Excel
 
-### 📚 What **projects** am I working on⁉️
+
+### 📚 What **projects** am I working on?
 Here's my portfolio, where I detail past and current projects!
 
-### 📧 Where can I **connect** with you⁉️
+
+### 📧 Where can I **connect** with you?
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/ad-zhang/)
 * Email: zhangadriennej@gmail.com
 
