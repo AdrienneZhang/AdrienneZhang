@@ -17,7 +17,7 @@ Hi, I'm Adrienne! I'm a data science graduate from Purdue University's class of 
 * Technologies: Snowflake, Access, Tableau, Jupyter Notebook, Git, DataRobot, Apache Spark, Hadoop, Excel
 
 ### 📚 What **projects** am I working on?
-Here's my [portfolio](../Portfolio), where I detail past and current projects!
+Here's my [portfolio](https://github.com/AdrienneZhang/Portfolio), where I detail past and current projects!
 
 ### 🌱 What am I currently **learning**?
 * Keyboard shortcuts and advanced functions in Excel
