@@ -10,21 +10,22 @@ Hi, I'm Adrienne! I'm a data science graduate from Purdue University's class of 
 * Implementing, testing, and optimizing machine learning tools for predictive analysis
 * Process automation and scripting using Python
 * Visualizing data with Tableau dashboards
+* Finetuning LLMs
+* Implementing ML workflows
 
 ### 🧰 What **tools** do I use?
-* Languages: Python, SQL, R, Java, SAS, HTML and CSS, Neo4j
-  * Python Libraries: pandas, NumPy, scikit-learn, SciPy, matplotlib, ggplot, BeautifulSoup, NLTK, PyTorch, transformers
-* Technologies: Snowflake, Access, Tableau, Jupyter Notebook, Git, DataRobot, Apache Spark, Hadoop, Excel
+* Languages: Python, SQL, R, Java, SAS, HTML
+  * Python Libraries: pandas, NumPy, scikit-learn, BeautifulSoup, NLTK, PyTorch, Matplotlib
+* Technologies: AWS, Tableau, Jupyter Notebook, Git, Snowflake, Docker
 
 ### 📚 What **projects** am I working on?
 Here's my [portfolio](https://github.com/AdrienneZhang/Portfolio), where I detail past and current projects!
 
 ### 🌱 What am I currently **learning**?
-* Keyboard shortcuts and advanced functions in Excel
-* Prompt engineering and finetuning LLMs
-* Data governence and modeling
+* Computer Vision
+* Reinforcement Learning
 
 ### 📧 Where can I **connect** with you?
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/ad-zhang/)
-* Email: zhangadriennej@gmail.com
+* Email: zhangadri@gmail.com
 
