@@ -1,6 +1,6 @@
 ## 🤷‍♀️ **Who** is Adrienne?
 
-Hi, I'm Adrienne! I'm a data science graduate from Purdue University's class of 2024 looking for opportunities to expand my skills in Data Scientist/Data Analyst roles.
+Hi, I'm Adrienne! I'm a data science graduate from Purdue University's class of 2024 looking for opportunities to expand my skills in Data Scientist/ML Engineer roles.
 
 ### 🤓 What **skills** specifically?
 * Storytelling with data
